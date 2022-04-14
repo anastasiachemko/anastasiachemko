@@ -1,5 +1,5 @@
 
-<h2 align="center">Greetings and salutations!</h2>
+<h2 align="center">**Greetings and salutations!**</h2>
 <h3 align="center">I am Anastasia, </h3>
 <h3 align="center">QA Engineer from Minsk</h3>
 
